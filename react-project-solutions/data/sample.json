@@ -1,0 +1,29 @@
+[
+    {
+        "question":"1.The sun rises in the _____?",
+        "options": [
+            { "text": "North" },
+            { "text": "South" },
+            { "text": "East", "isAnswer": true },
+            { "text": "West" }
+          ]
+    },
+    {
+        "question":"2.The capital of Tamilnadu _____?",
+        "options": [
+            { "text": "Chennai","isAnswer": true },
+            { "text": "Salem" },
+            { "text": "Coimbatore"  },
+            { "text": "Madurai" }
+          ]
+    },
+    {
+        "question":"3.The capital of kerala ____?",
+        "options": [
+            { "text": "Trivandrum","isAnswer": true },
+            { "text": "Kochi" },
+            { "text": "kottayam"  },
+            { "text": "idduki" }
+          ]
+    }
+]
